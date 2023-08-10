@@ -13,8 +13,8 @@ The Car Filp card utilizes the following technologies:
 
 Webpage looks like => 
 
-<img src="Images/car1.png">
-<img src="Images/car2.png">
+<img src="Images/Before.png">
+<img src="Images/After.png">
 
 This is a responsive web page: 
 
