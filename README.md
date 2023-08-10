@@ -1,6 +1,21 @@
 # cars_flip_cards
 Just a fun cards website with some quotes on backside of cards a proposal for the car from a car lover💖
 
-<i>
-![car1](https://github.com/deepbhapkar/cars_flip_cards/assets/119052748/30208b90-2fa9-4ff2-9f56-148cf1fb5d99)
-![car2](https://github.com/deepbhapkar/cars_flip_cards/assets/119052748/0950d0c8-80f9-4950-8cae-f21f473e3d9c)
+<b>Demo Webpage Link:</b> https://deepbhapkar.github.io/Zomato-Webpage/
+
+<b>Technologies Used:</b>
+
+The Car Filp card utilizes the following technologies:
+
+<b>HTML</b>: Markup language for structuring the web pages.
+
+<b>CSS</b>: Styling language for visually enhancing the UI.
+
+Webpage looks like => 
+
+<img src="Images/car1.png">
+<img src="Images/car2.png">
+
+This is a responsive web page: 
+
+Thus Functional on<b> Mobiles</b> and<b> Tablets </b>as well.
